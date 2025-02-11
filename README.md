@@ -30,11 +30,10 @@ I'm a **technology pioneer** working at the intersection of **AI** and **blockch
 ✅ **Co-founded Factom (now Inveniam)**, pioneering blockchain-AI integration  
 ✅ **Published "Blockchain For Dummies"**, democratizing blockchain knowledge  
 
-
 ## 📚 Publications & Thought Leadership
 
 - **Blockchain For Dummies** (Wiley Publishing)
-- **NFTs for Dummies** (Wiley Publishing) 
+- **NFTs for Dummies** (Wiley Publishing)
 
 ## 🔬 Research Interests
 
@@ -46,13 +45,6 @@ I'm a **technology pioneer** working at the intersection of **AI** and **blockch
 - **Blockchain-AI Convergence**
 
 ---
-
-### 📊 GitHub Activity
-
-![Profile Views](https://komarev.com/ghpvc/?username=TianaLaurence&label=Profile+Views&color=blue&style=plastic)
-![Tiana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TianaLaurence&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TianaLaurence&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TianaLaurence&theme=tokyonight)
 
 ## 📫 Connect With Me
 
