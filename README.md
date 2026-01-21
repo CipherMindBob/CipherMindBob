@@ -1,14 +1,12 @@
 # 👋 Hi, I'm Tiana Laurence
 
-![Welcome to my GitHub Profile!](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0078D4&center=true&width=600&lines=AI+and+Blockchain+Pioneer;Author+of+Blockchain+For+Dummies;Leading+AGI+and+Web3+Innovation;Building+the+Future+with+AI+%26+Blockchain+🚀)
+I build apps, break apps, fix apps, then question my life choices. I turn coffee into components and data into decisions. Bugs fear me. (They just don't know it yet.)
 
-## 🚀 About Me
-
-I'm a **technology pioneer** working at the intersection of **AI** and **blockchain**. My focus spans from developing cutting-edge generative AI systems to architecting blockchain solutions. 
+Open source enthusiast • Meme appreciator • Let's build something epic.
 
 ## 👀 Areas of Expertise
 
-- **Artificial General Intelligence (AGI)** 🤖
+- **Artificial Intelligence (AGI)** 🤖
 - **Generative AI & Large Language Models** 🧠
 - **Blockchain Architecture & Implementation** ⛓️
 - **Web3 & Digital Asset Innovation** 💎
@@ -25,7 +23,7 @@ I'm a **technology pioneer** working at the intersection of **AI** and **blockch
 
 ## 💡 Projects & Achievements
 
-✅ **Leading AGI Research** at Afut, pushing the boundaries of artificial intelligence  
+✅ **Leading AI Research** at Afut, pushing the boundaries of artificial intelligence  
 ✅ **Developing Generative AI Systems** for enterprise applications  
 ✅ **Co-founded Factom (now Inveniam)**, pioneering blockchain-AI integration  
 ✅ **Published "Blockchain For Dummies"**, democratizing blockchain knowledge  
