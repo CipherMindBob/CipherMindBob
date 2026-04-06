@@ -1,46 +1,42 @@
 # 👋 Hi, I'm Tiana Laurence
 
-I build apps, break apps, fix apps, then question my life choices. I turn coffee into components and data into decisions. Bugs fear me. (They just don't know it yet.)
+I build, break, and refine applications—turning ideas into systems and data into decisions. Fueled by curiosity, coffee, and a healthy respect for elusive bugs.
 
-Open source enthusiast • Meme appreciator • Let's build something epic.
+Open source enthusiast • Meme appreciator • Always building
 
 ## 👀 Areas of Expertise
 
-- **Artificial Intelligence (AGI)** 🤖
-- **Generative AI & Large Language Models** 🧠
-- **Blockchain Architecture & Implementation** ⛓️
-- **Web3 & Digital Asset Innovation** 💎
-- **Sustainable Technology Solutions** 🌱
+* Artificial Intelligence (AI)
+* Generative AI & Large Language Models
+* Blockchain Architecture & Implementation
+* Web3 & Digital Asset Innovation
 
 ## 🌱 Current Focus
 
-- **AGI Research & Development**
-- **Advanced Generative AI Systems**
-- **AI-Enhanced Blockchain Solutions**
-- **Ethical AI Implementation**
-- **Cross-Modal AI Architecture**
-- **Neural-Symbolic Integration**
+* AGI Research & Development
+* Advanced Generative AI Systems
 
 ## 💡 Projects & Achievements
 
-✅ **Leading AI Research** at Afut, pushing the boundaries of artificial intelligence  
-✅ **Developing Generative AI Systems** for enterprise applications  
-✅ **Co-founded Factom (now Inveniam)**, pioneering blockchain-AI integration  
-✅ **Published "Blockchain For Dummies"**, democratizing blockchain knowledge  
+* Leading AI research at Afut, advancing applied and theoretical AI
+* Developing generative AI systems for enterprise use
+* Co-founded Factom (now Inveniam), bridging blockchain and AI
+* Author of *Blockchain For Dummies*, expanding access to blockchain knowledge
 
-## 📚 Publications & Thought Leadership
+## 📚 Publications
 
-- **Blockchain For Dummies** (Wiley Publishing)
-- **NFTs for Dummies** (Wiley Publishing)
+* *Blockchain For Dummies* (Wiley)
+* *NFTs for Dummies* (Wiley)
 
 ## 🔬 Research Interests
 
-- **AGI Architecture & Development**
-- **Consciousness in Artificial Systems**
-- **Neural-Symbolic Computing**
-- **Ethical AI Frameworks**
-- **Quantum Computing for AI**
-- **Blockchain-AI Convergence**
+* AGI Architecture & Development
+* Consciousness in Artificial Systems
+* Neural-Symbolic Computing
+* Ethical AI Frameworks
+* Quantum Computing for AI
+* Blockchain-AI Convergence
+
 
 ---
 
